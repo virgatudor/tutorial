@@ -1,0 +1,28 @@
+body {
+  background-color: #544E3B;
+}
+
+h1 {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  color: #FFF7E0;
+  font-family: 'Shadows Into Light', cursive; 
+}
+
+button {
+  background-color: #FFC412;
+  border: 0px solid #1C6EA4;
+  border-radius: 10px 0px;
+  height: 10%;
+  width: 10%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  color: #FFF7E0;
+}
+
